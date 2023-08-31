@@ -2,7 +2,8 @@
 used CNN to create a human and horse prediction model using CGI generated images from tensorflow datasets
 # Horses or Humans Classification with CNN and Dense Layers
 
-![Horses or Humans](project_image.jpg)
+![images](https://github.com/PrajwalRaut8/Human-or-Horse-Classification/assets/143160391/a2ccf4a9-860b-43ab-abcf-9b1b2ffd59f4)
+
 
 ## Introduction
 
