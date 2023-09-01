@@ -7,7 +7,7 @@ used CNN to create a human and horse prediction model using CGI generated images
 
 ## Introduction
 
-In this project, we aim to develop a machine learning model that can accurately distinguish between images of horses and humans. The use of CGI-generated images adds a unique twist to the classification task.
+In this project, I developed a machine learning model that can accurately distinguish between images of horses and humans. The use of CGI-generated images adds a unique twist to the classification task.
 
 ## Dataset
 
